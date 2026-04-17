@@ -2,7 +2,6 @@
 
 # get human orthologs for macaque, rat, mouse, chicken
 
-# date 28/02/2025
 # author moohebat
 
 ###########################
