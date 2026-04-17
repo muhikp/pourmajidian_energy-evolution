@@ -1,7 +1,5 @@
 # Comparative lifespan trajectories of brain energy metabolism in human and macaque
-This repository contains code and data used to run the analyses in "Comparative lifespan trajectories of brain energy metabolism in human and macaque", available on [bioRxiv](https://doi.org/10.1101/2025.03.17.643763). 
-
-Now published in [PLOS Biology](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003619).
+This repository contains code and data used to run the analyses in "Comparative lifespan trajectories of brain energy metabolism in human and macaque"
 
 ## scripts
 The [scripts](scripts/) folder conatins all the scripts required to run the analyses described in the manuscript.
