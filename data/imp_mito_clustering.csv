@@ -1,0 +1,29 @@
+MitoPathway,MitoPathways Hierarchy,Genes
+mtDNA replication,Mitochondrial central dogma > mtDNA maintenance > mtDNA replication,"DNA2, EXOG, LIG3, MGME1, POLG, POLG2, POLRMT, RNASEH1, SSBP1, TFAM, TFB2M, TOP1MT, TOP3A, TWNK"
+mtDNA nucleoid,Mitochondrial central dogma > mtDNA maintenance > mtDNA nucleoid,"ATAD3A, ATAD3B, MTERF1, MTERF2, POLDIP2, POLG, POLG2, POLRMT, SSBP1, TFAM, TWNK"
+mtDNA repair,Mitochondrial central dogma > mtDNA maintenance > mtDNA repair,"APEX1, EXOG, LIG3, OGG1, POLB, POLG, PRIMPOL, RECQL4, UNG"
+Transcription,Mitochondrial central dogma > mtRNA metabolism > Transcription,"MRPL12, MTERF1, MTRES1, POLRMT, TEFM, TFAM, TFB2M, TOP1MT"
+Translation,,
+Complex I,OXPHOS > Complex I,"ACAD9, AIFM1, COA1, DMAC1, DMAC2, ECSIT, FOXRED1, LYRM2, MT-ND1, MT-ND2, MT-ND3, MT-ND4, MT-ND4L, MT-ND5, MT-ND6, NDUFA1, NDUFA10, NDUFA11, NDUFA12, NDUFA13, NDUFA2, NDUFA3, NDUFA5, NDUFA6, NDUFA7, NDUFA8, NDUFA9, NDUFAB1, NDUFAF1, NDUFAF2, NDUFAF3, NDUFAF4, NDUFAF5, NDUFAF6, NDUFAF7, NDUFAF8, NDUFB1, NDUFB10, NDUFB11, NDUFB2, NDUFB3, NDUFB4, NDUFB5, NDUFB6, NDUFB7, NDUFB8, NDUFB9, NDUFC1, NDUFC2, NDUFS1, NDUFS2, NDUFS3, NDUFS4, NDUFS5, NDUFS6, NDUFS7, NDUFS8, NDUFV1, NDUFV2, NDUFV3, NUBPL, TIMMDC1, TMEM126A, TMEM126B, TMEM186, TMEM70"
+Complex II,OXPHOS > Complex II,"SDHA, SDHAF1, SDHAF2, SDHAF3, SDHAF4, SDHB, SDHC, SDHD"
+Complex III,OXPHOS > Complex III,"BCS1L, CYC1, LYRM7, MT-CYB, TTC19, UQCC1, UQCC2, UQCC3, UQCR10, UQCR11, UQCRB, UQCRC1, UQCRC2, UQCRFS1, UQCRH, UQCRQ"
+Complex IV,OXPHOS > Complex IV,"CEP89, CMC1, CMC2, COA1, COA3, COA4, COA5, COA6, COA7, COA8, COX10, COX11, COX14, COX15, COX16, COX17, COX18, COX19, COX20, COX4I1, COX4I2, COX5A, COX5B, COX6A1, COX6A2, COX6B1, COX6B2, COX6C, COX7A1, COX7A2, COX7A2L, COX7B, COX7B2, COX7C, COX8A, COX8C, HIGD1A, MT-CO1, MT-CO2, MT-CO3, NDUFA4, PET100, PET117, PNKD, SCO1, SCO2, SMIM20, SURF1, TACO1, TIMM21, TMEM177"
+Complex V,OXPHOS > Complex V,"ATP5F1A, ATP5F1B, ATP5F1C, ATP5F1D, ATP5F1E, ATP5IF1, ATP5MC1, ATP5MC2, ATP5MC3, ATP5MD, ATP5ME, ATP5MF, ATP5MG, ATP5MPL, ATP5PB, ATP5PD, ATP5PF, ATP5PO, ATPAF1, ATPAF2, ATPSCKMT, DMAC2L, FMC1, MT-ATP6, MT-ATP8, TMEM70"
+Pyruvate metabolism,Metabolism > Carbohydrate metabolism > Pyruvate metabolism,"DLAT, DLD, MPC1, MPC1L, MPC2, PDHA1, PDHA2, PDHB, PDHX, PDK1, PDK2, PDK3, PDK4, PDP1, PDP2, PDPR"
+TCA cycle,Metabolism > Carbohydrate metabolism > TCA cycle,"ACO2, CS, DLD, DLST, FH, IDH2, IDH3A, IDH3B, IDH3G, MDH2, MRPS36, OGDH, OGDHL, SDHA, SDHB, SDHC, SDHD, SUCLA2, SUCLG1, SUCLG2"
+Ketone metabolism,Metabolism > Carbohydrate metabolism > Ketone metabolism,"ACAA2, ACAT1, BDH1, HADHB, HMGCL, HMGCS2, OXCT1, OXCT2"
+Fatty acid oxidation,Metabolism > Lipid metabolism > Fatty acid oxidation,"ACAA2, ACACB, ACAD10, ACAD11, ACADL, ACADM, ACADS, ACADSB, ACADVL, ACAT1, ACOT11, ACSF2, ACSL1, ACSL6, ACSM1, ACSM2A, ACSM2B, ACSM3, ACSM4, ACSM5, ACSS1, AMACR, CPT1A, CPT1B, CPT1C, CPT2, CRAT, CROT, DECR1, ECHS1, ECI1, ECI2, ETFA, ETFB, ETFDH, HADH, HADHA, HADHB, HSD17B10, MCEE, MMUT, PCCA, PCCB, SLC25A20"
+Cardiolipin synthesis,Metabolism > Lipid metabolism > Cardiolipin synthesis,"AGPAT4, AGPAT5, CRLS1, GPAM, GPAT2, HADHA, PGS1, PLD6, PLSCR3, PNPLA8, PRELID1, PRELID3A, PTPMT1, TAMM41, TAZ, TRIAP1"
+"Cholesterol, bile acid, steroid synthesis","Metabolism > Lipid metabolism > Cholesterol, bile acid, steroid synthesis","CYP11A1, CYP11B1, CYP11B2, CYP27A1, DHRS1, FDX1, FDXR, HINT2, HSD17B10, HSD17B8, OSBPL1A, SCP2, STAR, TSPO"
+Phospholipid metabolism,Metabolism > Lipid metabolism > Phospholipid metabolism,"ACP6, AGK, AGPAT4, AGPAT5, CHPT1, GPAM, GPAT2, LACTB, OSBPL1A, PGS1, PISD, PNPLA8, PRDX6, PRELID1, PRELID3A, PRELID3B, PTPMT1, SERAC1, SPHK2, SPTLC2, STARD7, TAMM41, TRIAP1"
+Eicosanoid metabolism,,
+Branched-chain amino acid metabolism,Metabolism > Amino acid metabolism > Branched-chain amino acid metabolism,"ACAD8, ACADSB, ACAT1, ALDH6A1, AUH, BCAT2, BCKDHA, BCKDHB, BCKDK, DBT, DLD, ECHS1, ETFA, ETFB, ETFDH, HADHA, HIBADH, HIBCH, HMGCL, HSD17B10, IVD, MCCC1, MCCC2, PPM1K, SLC25A44"
+Glutamate metabolism,Metabolism > Amino acid metabolism > Glutamate metabolism,"GLS, GLS2, GLUD1, GLUD2, GOT2, GPT2, NAT8L, SLC25A12"
+GABA metabolism,Metabolism > Amino acid metabolism > GABA metabolism,"ABAT, ADHFE1, AKR7A2, ALDH5A1, ALDH9A1, GLUD1, GLUD2"
+Creatine metabolism,Metabolism > Nucleotide metabolism > Creatine metabolism,"CKMT1A, CKMT1B, CKMT2, GATM"
+Carnitine shuttle,,
+Tetrahydrobiopterin synthesis,,
+Fe-S-containing proteins,Metabolism > Metals and cofactors > Fe-S-containing proteins,"ABAT, ACO2, AIFM3, BOLA1, BOLA3, CISD1, CISD3, DNA2, ETFDH, FDX1, FDX2, FECH, GLRX2, GLRX5, ISCA1, ISCA2, ISCU, LIAS, NDUFS1, NDUFS2, NDUFS7, NDUFS8, NDUFV1, NDUFV2, NFS1, NFU1, NTHL1, NUBPL, RSAD1, SDHB, UQCRFS1"
+ROS and glutathione metabolism,Metabolism > Detoxification > ROS and glutathione metabolism,"AIFM2, ALDH3A2, ALDH7A1, ALDH9A1, CAT, GLRX2, GPX1, GPX4, GSR, HAGH, MGST1, MSRA, MSRB2, MSRB3, NIT1, OXR1, PRDX2, PRDX3, PRDX4, PRDX5, PRDX6, PRXL2A, SOD1, SOD2, TXN2, TXNRD1, TXNRD2"
+Mitochondrial permeability transition pore,Signaling > Calcium homeostasis > Mitochondrial permeability transition pore,"PPIF, SLC25A31, SLC25A4, SLC25A5, SLC25A6, VDAC1, VDAC3"
+EF hand proteins,Signaling > Calcium homeostasis > EF hand proteins,"EFHD1, MICU1, MICU2, MICU3, RHOT1, RHOT2, SLC25A12, SLC25A13, SLC25A23, SLC25A24, SLC25A25"
