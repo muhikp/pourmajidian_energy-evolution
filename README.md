@@ -11,4 +11,4 @@ To be able to run the scripts, please download the following data
 - [Cardoso-Moreira dataset](https://www.nature.com/articles/s41586-019-1338-5): go to https://apps.kaessmannlab.org/evodevoapp/ and download "expression tables (RPKM)" for mouse, rat and chicken
 
 ## results
-The [results](results/) folder includes outputs generated from the scripts, including the MitoCarta3.0 expression matrices, mean expression and PC1 maps.
+The [results](results/) folder includes outputs generated from the scripts, including the MitoCarta3.0 expression matrices, mean expression and PC1 maps in the Schaefer-400 cortical parcellation.
