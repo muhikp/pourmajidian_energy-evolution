@@ -66,7 +66,7 @@ pec_dev_exp = pec_dev_exp.rename(columns=atp5_dict)
 
 extended_maps = ['glycolysis', 'ppp', 'tca', 'oxphos', 'lactate',
                  'complex1', 'complex2', 'complex3', 'complex4','atpsynth', 
-                 'kb_util', 'fa_metabolism', 'glycogen_metabolism', 'bcaa_cat'
+                 'kb_util', 'fa_metabolism', 'glycogen_metabolism', 'bcaa_cat',
                  'pdc', 'mas', 'gps', 'creatine', 'ros_detox', 'ros_gen',
                  'no_signalling', 'atpase', 'gln_glu_cycle']
 

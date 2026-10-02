@@ -16,7 +16,7 @@ path_data = './data/'
 path_result = './results/'
 path_fig = './figures/'
 
-# load energy gene sets
+# load energy gene sets (from my first paper)
 with open(path_result+'energy_genelist_dict.pickle', 'rb') as f:
     energy_dict = pickle.load(f)
 
